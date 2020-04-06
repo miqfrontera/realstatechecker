@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d245fc-af71-462e-8d1c-5b187c3d6ea2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/real-state-checker.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -485,11 +480,25 @@
       <option name="project" value="LOCAL" />
       <updated>1586154560517</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove .idea folder from github repo">
+      <created>1586156968923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586156968923</updated>
+    </task>
+    <task id="LOCAL-00003" summary="remove .idea folder from github repo">
+      <created>1586157115356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586157115356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23901000" />
+    <option name="totallyTimeSpent" value="24680000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -546,7 +555,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ignore idea folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore idea folder" />
+    <MESSAGE value="remove .idea folder from github repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove .idea folder from github repo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
