@@ -9,5 +9,5 @@ It is written using [Laravel](https://laravel.com)
 Define database connection on env file as any Laravel app.
 
 ## License
-
+No license decided yet
 
